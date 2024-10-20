@@ -4,7 +4,7 @@ export const refs = {
   loader: document.querySelector('.loader'),
 };
 
-export const PX_API_KEY = "28534332-8f968f9e2a1846e3bb62dda3d"
+export const PX_API_KEY = "46619732-3197f14e6c8435a9c5454ac04"
 
 export const STORAGE_KEY = "query";
 
